@@ -1,0 +1,1 @@
+Genomgång kryptering
